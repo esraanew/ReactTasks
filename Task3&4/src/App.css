@@ -1,0 +1,90 @@
+.link{
+  font-size: 25px;
+  color: aliceblue;
+  margin: 10px 30px;
+}
+.link:hover{
+  text-decoration: none;
+  color:palevioletred;
+
+}
+nav{
+  background-color: rgb(16, 29, 29);
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+
+}
+.add{
+  background-color: palevioletred;
+  color:black;
+  font-weight: 600;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+
+}
+.add:hover{
+  text-decoration: none;
+
+  background-color: black;
+  color:palevioletred;
+
+}
+.Link
+{
+  
+  padding: 7px;
+  border-radius: 5px;
+  color: palevioletred;
+  background-color: black;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.Link:hover{
+  text-decoration: none;
+  color:black;
+  background-color: palevioletred;
+}
+.card-body
+{
+background-color: beige;
+}
+
+
+.comment 
+{
+  background-color: beige;
+  width:500px;
+  text-align: center;
+  height: 220px;
+  margin: 20px;
+  float: left;
+  padding: 40px;
+  border-radius: 10px;
+}
+.comment h4{
+  color: palevioletred;
+}
+
+.postdetails,.userdetails {
+  text-align: center;
+  width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+  margin:50px auto;
+  background-color: beige;
+  color:black;
+  height: 450px;
+  font-size: 20px;
+}
+.postdetails h3,.userdetails h3{
+  color: palevioletred;
+
+}
+span{
+  color: black;
+}
