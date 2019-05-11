@@ -1,0 +1,39 @@
+header{
+    background-color: red;
+    color:white;
+    font-size:20px;
+}
+
+.para
+{
+    color :black;
+    background-color:yellow;
+    font-size:50px;
+}
+.form-inline .form-control
+{
+ border:2px solid palevioletred;  
+    width:800px !important; 
+}
+ .form-control:focus,.btn-colors:focus
+{
+ box-shadow: 0 0 0 0.2rem palevioletred;
+  
+}
+.form-control::placeholder
+{
+    color: palevioletred;
+}
+.btn-colors
+{
+    color: white;
+    background-color: palevioletred;
+    border: 2px solid lightpink;
+    font-weight: 500;
+
+}
+.btn-colors:hover{
+    color: white;
+    background-color:lightpink;
+    border-color:palevioletred;
+}
