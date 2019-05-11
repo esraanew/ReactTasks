@@ -1,0 +1,42 @@
+.add
+{
+  background-color: cornflowerblue;
+  width:500px;
+  height:50px;margin: 30px auto;
+  border-radius: 5px;
+}
+.add input{
+  width: 300px;
+  padding: 10px;
+  margin-top: 3px;
+  margin-left: 35px;
+  border: none
+}
+.add button
+{
+  font-weight: 600;
+border: none;
+background-color: hotpink;
+  padding: 10px;
+  color: white;
+  width: 100px;
+}
+.add button:hover{
+  background-color: aqua;
+}
+
+.name
+{
+  font-size: 30px;
+
+}
+
+.header
+{
+
+  font-size: 30px;
+}
+Table{
+  float: left;
+
+}
